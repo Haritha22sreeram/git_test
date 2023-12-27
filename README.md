@@ -1,2 +1,2 @@
 # git_test
-Hello Odin!!
+Hello Odin!! My first repo experience
